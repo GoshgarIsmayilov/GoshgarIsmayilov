@@ -2,6 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=GoshgarIsmayilov-username&abbreviated=true-username&color=yellowgreen)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GoshgarIsmayilov&show_icons=true&theme=tokyonight)  
+
 <!--
 **GoshgarIsmayilov/GoshgarIsmayilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
