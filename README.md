@@ -1,5 +1,6 @@
 # Hi there 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Goshgar%20C.%20Ismayilov-blue?logo=linkedin)](https://www.linkedin.com/in/gismayilov/)
 ![](https://komarev.com/ghpvc/?username=GoshgarIsmayilov-username&abbreviated=true-username&color=yellowgreen)
 
 ## 📊 GitHub Stats
